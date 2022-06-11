@@ -57,4 +57,22 @@ M: 17
 
 O professor fez um comparativo das ilustrações 2 e 3 e notou que houve uma troca na cadeira nº 29. O aluno que estava nessa cadeira fez a troca da disciplina de matemática para a de português. 
 
+## QUESTÃO 3
 
+Em uma inscrição, o usuário informou os seguintes dados:
+- Nome: José Almeida da Silva
+- CPF: 12345678900
+- RG: 9517530
+- Altura: 1,78
+- Endereço: Rua A, 380 – Centro – Recife/PE
+No algoritmo, descreva como será:
+1. A proposta das variáveis;
+2. Elaborada a declaração das variáveis;
+3. Utilizado o comando de atribuição.
+
+## SOLUÇÃO 3 
+var name: string = "José Almeida da Silva"
+const cpf: number = 12345678900
+const rg: number = 9517530
+var heigth: float = 1.78
+var adress: string = "Rua A, 380 – Centro – Recife/PE" 
