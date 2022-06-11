@@ -1,0 +1,27 @@
+
+Escreva ("Digite seu nome")
+Leia nome
+Escreva ("Digite seu endereço")
+Leia endereço
+Escreva ("Digite sua cidade ")
+Leia cidade
+Escreva ("Digite seu cpf ")
+Leia cpf
+Escreva ("Digite seu RG")
+leia RG
+Escreva ("Digite sua idade ")
+Leia idade
+Escreva ("Digite o nome do seu pai")
+Leia NomePai
+Escreva ("Digite o nome da sua mãe ")
+Leia NomeMae
+Escreva ("Digite seu peso ")
+Leia Peso
+Escreva ("Digite Sua renda")
+Leia Renda
+
+Escreva (nome, endereço, cidade, cpf,Rg, idade, NomePai,
+NomeMae, Peso, Renda)
+
+Diego, rua coruripe, recife, 09355635595, 7958885, 31,
+evaldo,isabel,90,1000
