@@ -81,3 +81,41 @@ const cpf: number = 12345678900
 const rg: number = 9517530
 var heigth: float = 1.78
 var adress: string = "Rua A, 380 – Centro – Recife/PE" 
+
+## QUESTÃO 4
+Elabore um algoritmo que representa um cadastro. Ele deve ler os seguintes dados fornecidos pelo usuário:
+
+- Nome
+- Endereço
+- Cidade
+- CPF
+- RG
+- Idade
+- Nome do pai
+- Nome da mãe
+- Peso
+- Renda bruta
+
+Apresente as informações solicitadas no final do cadastro.
+## SOLUÇÃO 4
+Escreva ("Digite seu cpf ")
+Leia cpf
+Escreva ("Digite seu RG")
+leia RG
+Escreva ("Digite sua idade ")
+Leia idade
+Escreva ("Digite o nome do seu pai")
+Leia NomePai
+Escreva ("Digite o nome da sua mãe ")
+Leia NomeMae
+Escreva ("Digite seu peso ")
+Leia Peso
+Escreva ("Digite Sua renda")
+Leia Renda
+
+Escreva (nome, endereço, cidade, cpf,Rg, idade, NomePai,
+NomeMae, Peso, Renda)
+
+Diego, rua coruripe, recife, 09355635595, 7958885, 31,
+evaldo,isabel,90,1000
+
