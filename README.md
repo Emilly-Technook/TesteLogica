@@ -12,23 +12,28 @@ Informe quem ficou em 1º, 2º e 3º lugar em cada disciplina
 
 ## RESPOSTA 1
 Os primeiros lugares em fisica, matemátia e química foram : Aristóteles, Platão e Sócrates; os segundos foram: Platão, Sócrates e Aristóteles e os terceiros foram: Sócrates, Aristóteles e Platão respectivamente.
-
- Física 
-1° lugar - Aristóteles 
-2° lugar - Platão 
-3° lugar - Sócrates 
-
-Matemática
-1° lugar - Platão  
-2° lugar - Sócrates 
-3° lugar - Aristóteles 
-
-Química 
-
-1° lugar - Sócrates 
-2° lugar - Aristóteles 
-3° lugar - Platão 
-
+<table>
+ <tr>
+  <th>Física </th>
+  <th>Matemática</th>
+  <th>Química </th>
+ </tr>
+<tr>
+ <td>1° lugar - Aristóteles </td>
+ <td>2° lugar - Platão </td>
+ <td>3° lugar - Sócrates </td>
+</tr>
+ <tr>
+  <td>1° lugar - Platão</td>
+  <td>2° lugar - Sócrates</td>
+  <td>3° lugar - Aristóteles</td>
+ </tr>
+ <tr>
+  <td>1° lugar - Sócrates</td>
+  <td>2° lugar - Aristóteles</td>
+  <td>3° lugar - Platão </td>
+ </tr>
+</table>
 ![image](https://user-images.githubusercontent.com/98356594/173189193-2f22597a-7d08-44bf-987b-213e74326ddb.png)
 
 ## QUESTÃO 2
