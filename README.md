@@ -20,17 +20,17 @@ Os primeiros lugares em fisica, matemátia e química foram : Aristóteles, Plat
  </tr>
 <tr>
  <td>1° lugar - Aristóteles </td>
- <td>2° lugar - Platão </td>
- <td>3° lugar - Sócrates </td>
+ <td>1° lugar - Platão </td>
+ <td>1° lugar - Sócrates </td>
 </tr>
  <tr>
-  <td>1° lugar - Platão</td>
+  <td>2° lugar - Platão</td>
   <td>2° lugar - Sócrates</td>
-  <td>3° lugar - Aristóteles</td>
+  <td>2° lugar - Aristóteles</td>
  </tr>
  <tr>
-  <td>1° lugar - Sócrates</td>
-  <td>2° lugar - Aristóteles</td>
+  <td>3° lugar - Sócrates</td>
+  <td>3° lugar - Aristóteles</td>
   <td>3° lugar - Platão </td>
  </tr>
 </table>
