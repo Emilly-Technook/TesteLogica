@@ -100,22 +100,22 @@ Apresente as informações solicitadas no final do cadastro.
 ## SOLUÇÃO 4
 Escreva ("Digite seu cpf ")<br>
 Leia cpf<br>
-Escreva ("Digite seu RG")
-leia RG
-Escreva ("Digite sua idade ")
-Leia idade
-Escreva ("Digite o nome do seu pai")
-Leia NomePai
-Escreva ("Digite o nome da sua mãe ")
-Leia NomeMae
-Escreva ("Digite seu peso ")
-Leia Peso
-Escreva ("Digite Sua renda")
-Leia Renda
+Escreva ("Digite seu RG")<br>
+leia RG<br>
+Escreva ("Digite sua idade ")<br>
+Leia idade<br>
+Escreva ("Digite o nome do seu pai")<br>
+Leia NomePai<br>
+Escreva ("Digite o nome da sua mãe ")<br>
+Leia NomeMae<br>
+Escreva ("Digite seu peso ")<br>
+Leia Peso<br>
+Escreva ("Digite Sua renda")<br>
+Leia Renda<br>
 
 Escreva (nome, endereço, cidade, cpf,Rg, idade, NomePai,
-NomeMae, Peso, Renda)
+NomeMae, Peso, Renda)<br>
 
-Diego, rua coruripe, recife, 09355635595, 7958885, 31,
-evaldo,isabel,90,1000
+Emilly, av. caxangá, recife, 093544635595, 7957885, 31,
+Jorge, Maria,80,3000 <br>
 
