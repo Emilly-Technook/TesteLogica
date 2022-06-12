@@ -76,11 +76,11 @@ No algoritmo, descreva como será:
 3. Utilizado o comando de atribuição.
 
 ## SOLUÇÃO 3 
-var name: string = "José Almeida da Silva"
-const cpf: number = 12345678900
-const rg: number = 9517530
-var heigth: float = 1.78
-var adress: string = "Rua A, 380 – Centro – Recife/PE" 
+var name: string = "José Almeida da Silva" <br>
+const cpf: number = 12345678900<br>
+const rg: number = 9517530<br>
+var heigth: float = 1.78<br>
+var adress: string = "Rua A, 380 – Centro – Recife/PE" <br>
 
 ## QUESTÃO 4
 Elabore um algoritmo que representa um cadastro. Ele deve ler os seguintes dados fornecidos pelo usuário:
