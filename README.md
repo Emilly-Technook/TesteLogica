@@ -98,8 +98,8 @@ Elabore um algoritmo que representa um cadastro. Ele deve ler os seguintes dados
 
 Apresente as informações solicitadas no final do cadastro.
 ## SOLUÇÃO 4
-Escreva ("Digite seu cpf ")
-Leia cpf
+Escreva ("Digite seu cpf ")<br>
+Leia cpf<br>
 Escreva ("Digite seu RG")
 leia RG
 Escreva ("Digite sua idade ")
