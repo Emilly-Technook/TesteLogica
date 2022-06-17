@@ -1,0 +1,21 @@
+MÉTODO INSECTION SORT EM JAVASCRIPT
+inputArr = [5, 4, 3, 2, 1];
+function insertionSort(inputArr) {
+  let n = inputArr.length;
+  for (let i = 1; i < n; i++) {
+    // Escolhendo o elemento a ser inserido
+    let current = inputArr[i];
+    // o ultimo elemento da nossa sublista ordenada
+
+    let j = i - 1;
+    while (j > -1 && current < inputArr[j]) {
+      inputArr[j + 1] = inputArr[j];
+      j--;
+    }
+    inputArr[j + 1] = current;
+  }
+  return inputArr;
+}
+
+console.log("insertionSort", insertionSort(inputArr));
+
